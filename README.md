@@ -1,3 +1,3 @@
 # Weather
 
-## URL: https://gokulraj2255.github.io/weather/
+## URL: https://gokulraj2255.github.io/Weather/
