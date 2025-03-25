@@ -1,3 +1,3 @@
-# Climate-
+# Weather
 
-## URL: https://gokulraj2255.github.io/Climate/
+## URL: https://gokulraj2255.github.io/weather/
